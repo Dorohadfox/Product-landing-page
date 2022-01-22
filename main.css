@@ -12,8 +12,16 @@ top: 0;
 bottom: auto;
 justify-content: space-around;
 text-align: center;
-width: 800px;
+width: auto;
 }
+
+
+#emptybox {
+position: relative;
+
+}
+
+
 
 
 #header-img {
@@ -24,9 +32,13 @@ height: 100px;
 
 
 #body {
-
-  position: relative;
+text-align: center;
+align-items: center;
+background-color: #555;
+position: relative;
 display: flex;
 flex-direction: column;
 height: 8000vh;
+
+
 }

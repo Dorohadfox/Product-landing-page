@@ -1,0 +1,32 @@
+@media screen and (max-width: 0px)
+{
+  body { background-color: #227722;}
+}
+
+
+
+
+#header {
+position: sticky;
+top: 0;
+bottom: auto;
+justify-content: space-around;
+text-align: center;
+width: 800px;
+}
+
+
+#header-img {
+width: 200px;
+height: 100px;
+
+}
+
+
+#body {
+
+  position: relative;
+display: flex;
+flex-direction: column;
+height: 8000vh;
+}

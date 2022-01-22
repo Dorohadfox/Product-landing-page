@@ -12,9 +12,15 @@ top: 0;
 bottom: auto;
 justify-content: space-around;
 text-align: center;
-width: auto;
+width: 100%;
+background: #000000;
+color: white;
+
 }
 
+
+#title { font-size: 48px;}
+#sub-title { font-size: 38px;}
 
 #emptybox {
 position: relative;
